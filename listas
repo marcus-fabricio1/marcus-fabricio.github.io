@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+  <head>
+    <title>Marcus | Minha Página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h2>Lista de Compras muito legais</h1>
+    <ul>
+        <li>Porshe 911</li>
+        <li>Leite</li>
+        <li>Kinder Ovo</li>
+        <li>Um gato marrom</li>
+        <li>Um cachorro vermelho</li>
+        <li>Um peixe com pernas</li>
+    </ul>
+    <h2>Lista de coisas</h2>
+    <ol>
+        <li>Ben 10</li>
+        <li>Scooby-Doo</li>
+        <li>Mutante Rex</li>
+    </ol>
+    <h2>Lista de coisas alterada</h2>
+    <ol start="3594">
+        <li>Ben 10</li>
+        <li>Scooby-Doo</li>
+        <li>Mutante Rex</li>
+    </ol>
+    <h2>Lista de coisas inversa</h2>
+    <ol reversed>
+        <li>Ben 10</li>
+        <li>Scooby-Doo</li>
+        <li>Mutante Rex</li>
+    </ol>
+  </body>
+</html>
